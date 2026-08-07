@@ -1,4 +1,4 @@
-# Fitness Tracker App (Flutter)
+# Fitness Tracker App
 
 A complete Flutter fitness-tracking app: signup/login, a home screen with
 swipeable workout tracking, a workout detail screen, favorites backed by
@@ -69,5 +69,6 @@ lib/
     storage_debug_screen.dart    # Raw local-storage viewer (for evidence)
 ```
 
-See `CHECKLIST_GUIDE.md` for exactly which file to link and which
-screenshot to take for each submission requirement.
+## License
+
+This project is licensed under the [MIT License](LICENSE).
